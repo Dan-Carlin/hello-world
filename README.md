@@ -1,2 +1,3 @@
 # hello-world
-First repository attempt
+
+Learning how to do this.
